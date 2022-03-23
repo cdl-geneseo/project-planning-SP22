@@ -1,8 +1,12 @@
-# Jacob Cool Fun Happy Place
+# Ideas for Projects
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There are a view different Ideas that I have, and I am going to use this space as a way to express and explore each of them. Internally I have a creative calling to one above the rest.
 
 --- 
+## Held In Common
+This project is one that I've been thinking about for the past couple months, and it is to build a simple app that digitally archives different material that a group of individuals might hold in common-- like books, art, or electronics. I want to make a space where people can potentially upload material that they would like to share with the group, and have a way that fosters the lending of these objects between these individuals. I also want to make it so when a person uploads a project, or submits one to be held in common, they might be able to place certain restrains on that object, like that it can only be held for 6 months, or that it can be kept longer, but it must be renewed and not be requested by other members of the common community. 
 
+
+---
 
 [Lets go home...](/README.md)

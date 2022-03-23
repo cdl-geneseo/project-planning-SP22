@@ -2,7 +2,7 @@
 
 There are a view different Ideas that I have, and I am going to use this space as a way to express and explore each of them. Internally I have a creative calling to one above the rest.
 
---- 
+
 ## Held In Common
 This project is one that I've been thinking about for the past couple months, and it is to build a simple app that digitally archives different material that a group of individuals might hold in common-- like books, art, or electronics. I want to make a space where people can potentially upload material that they would like to share with the group, and have a way that fosters the lending of these objects between these individuals. I also want to make it so when a person uploads a project, or submits one to be held in common, they might be able to place certain restrains on that object, like that it can only be held for 6 months, or that it can be kept longer, but it must be renewed and not be requested by other members of the common community. 
 

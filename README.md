@@ -3,7 +3,7 @@ The project planning repository for Spring 2022 CDL Student Affiliates.
 
 ---
 
-- Abby's[Project](/AbbyHenry.md)
-- Sarah's [Project](/SarahFadlaoui.MD)
-- Jacob's [Project](/JacobZaengle.MD)
+- Abby's absolutely awesome [project](/AbbyHenry.md)
+- Sarah's simply stunning [project](/SarahFadlaoui.MD)
+- Jacob's just jarring [project](/JacobZaengle.MD)
 

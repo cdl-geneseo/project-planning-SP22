@@ -1,6 +1,6 @@
 # Ideas for Projects
 
-There are a view different Ideas that I have, and I am going to use this space as a way to express and explore each of them. Internally I have a creative calling to one above the rest.
+There are a few different ideas that I have, and I am going to use this space as a way to express and explore each and every one of them. Internally I have a creative calling to one above the rest, but I bet you can't figure out what that one is 🙃
 
 
 ## Held In Common
@@ -36,7 +36,6 @@ This project is one that I've been thinking about for the past couple months, an
         - Careraker ( for when objects have no home )
         - Contributer
         - Member
-- 
 
 ## Bright Spot
 There was an idea that I initially spoke to 

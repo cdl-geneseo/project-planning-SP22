@@ -1,5 +1,32 @@
-# Ideas for Projects
-
+<!-- 
+                       ,---.
+                       /    |
+                      /     |
+  This is Gandalf    /      |
+    He Says         /       |
+      Hi       ___,'        |
+             <  -'          :
+              `-.__..--'``-,_\_
+                 |o/ ` :,.)_`>
+                 :/ `     ||/)
+                 (_.).__,-` |\
+                 /( `.``   `| :
+                 \'`-.)  `  ; ;
+                 | `       /-<
+                 |     `  /   `.
+ ,-_-..____     /|  `    :__..-'\
+/,'-.__\\  ``-./ :`      ;       \
+`\ `\  `\\  \ :  (   `  /  ,   `. \
+  \` \   \\   |  | `   :  :     .\ \
+   \ `\_  ))  :  ;     |  |      ): :
+  (`-.-'\ ||  |\ \   ` ;  ;       | |
+   \-_   `;;._   ( `  /  /_       | |
+    `-.-.// ,'`-._\__/_,'         ; |
+       \:: :     /     `     ,   /  |
+        || |    (        ,' /   /   |
+        ||                ,'   /    |
+-->
+# Ideas for Project
 There are a few different ideas that I have, and I am going to use this space as a way to express and explore each and every one of them. Internally I have a creative calling to one above the rest, but I bet you can't figure out what that one is 🙃
 
 
@@ -46,4 +73,5 @@ There was an idea that I initially spoke to
 
 ---
 
-[Lets go home...](/README.md)
+[Lets go home...](/README.md) 
+[Song of the day](https://www.youtube.com/watch?v=G1IbRujko-A)

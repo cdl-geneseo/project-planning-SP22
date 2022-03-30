@@ -77,7 +77,9 @@ This was a project that I spoke with Paul and Amanda about initially when lookin
 The potential area that I could lend a hand in was adding a students perspective durring the faculty on boarding course that might add motivation for why certain practices should be adopted. I still like this idea, and do think adding a voice that is closer to home might help motivate some towards adopting certain practice and "see the light"
 
 ## Metaphyics Textbook
+This is a project that my professor pointed my towards when expressed an interest in assisting 
 
+The benefits for myself that I see this project providing are that in that it helps me develop skills in digital publishing, and it also would get me into reading works within philosophy that I have an interest in, and will most likely not get the chance to study while at geneseo. 
 
 
 ---

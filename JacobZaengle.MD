@@ -38,12 +38,13 @@ This project is one that I've been thinking about for the past couple months, an
 What I see this project as being is a digital archieve or library of physical material-- pretty simple to understand. What is perhaps different about this concept is that instead of there being a central abiter of these material, it is instead distributed-- perhaps unequally-- amongst those individuals within the agreement. Within this structured agreement I see there being roles assigned to individuals within it. For some reason, as I am writing this, I am getting visions of the rousseauian tree of social contract...Anyway, while the ultimate goal is that these objects can be lended and shared amongst individuals, perhaps initial phases of this project will be the establishment of a shared collection. And before that the establishment of a single persons collection. 
 
 ### Phase 1 - Archive
-The first steps towards achieving the goals of this project is to create a sort of digital archive of objects.
+The first steps towards achieving the goals of this project is to create a digital archive of objects. I see this being only a single user experience in which they are aloud to upload and tag items and create a database of their own material. As a design refrence, I will work to mimic some of the features found within the [MET's archive page](https://www.metmuseum.org/art/collection/search?q=Art+Deco&searchField=All&sortBy=Relevance&pageSize=0). 
 
 **Outline**
 - Login Page
 - Gallary
-    
+    - Sorting functionality
+    - List uploaded items
 - Upload
     - Img
     - Tags[ Predefined Tag Sets]
@@ -52,8 +53,9 @@ The first steps towards achieving the goals of this project is to create a sort 
     - History
 
 ### Phase 2 - Interaction
-In this phase I want to create a way for there to be users who have limited privilages, and can interact with the not neccesarily through commenting, but rather through developing its provenance. This feature would include users suggesting edits to the work of art 
+In this phase I want to create a way for there to be users who have limited privilages, and can interact with the not neccesarily through commenting, but rather through developing its provenance. This feature would include users suggesting edits to the work of art.
 
+**Outline**
 - Login Page
 - Gallary
 - Upload
@@ -61,7 +63,6 @@ In this phase I want to create a way for there to be users who have limited priv
     - Description
     - Provenance
     - History
-
 - User Page
     - Bio
     - User Type
@@ -72,11 +73,28 @@ In this phase I want to create a way for there to be users who have limited priv
                 - Suggesting Edits
                 
 ### Phase 3 - Contribute
+As the title states, this phase we will work to make it so different people can contribute to a shared digital archive, and it will work to assign roles to those users within the common space. 
 
-
+**Outline**
+- Login Page
+- Gallary 
+- Upload
+    - Img
+    - Description
+    - Provenance
+    - History
+- User Page
+    - Bio
+    - User Type
+        - Admin
+        - Member
+            - PRIVILAGES
+                - Commenting[ 1 per post]
+                - Suggesting Edits
 
 
 ### Phase 4 - Share
+In this phase we will work to integrate lending features.
 ---
 **Outline**
 - Login Page

@@ -26,3 +26,14 @@ In brief, this is just a rough outline of what I would like to accomplish with t
 
 * Create a Ravelry group for Geneseo Tempestry
     * At our most recent meeting, Alexis had mentioned the site [Ravelry](https://www.ravelry.com/) to me. I recognized the name, but I had never used the platform myself. After browsing through it, though, I think that this would be a great way to keep track of Tempestry members' projects over the summer! You can create groups on there, in which members can talk over discussion boards and share photos of their recent work. I also like that within the group itself and members' individual profiles that you can link to outside websites, which I think is the perfect opportunity to link all of us back to the Geneseo Tempestry blog. *However*, I cannot figure out how to create a group on there -- so it may take some more research on my end to figure out how to do so. 
+
+* Tempestry blog setup
+    * Add new "Blog" section to home page
+        * Add drop-down menu with three(?) subsections
+            * Summer Projects/While We're Away... -> Could either post projects here, or redirect to Ravelry group
+                * I think that you may need to have a Ravelry account to access certain features of the website, so maybe we could post a basic overview of some projects on the Tempestry website, and encourage people to join the Ravelry group if they want to see more/the latest projects?
+            * Why We Craft -> Could showcase the different mediums members are using for the the tempestry itself, and include short interviews/descriptions of why that craft (or crafting overall) is significant for them
+            * Craftivism -> Could highlight different articles/topics related to craftivism and/or environmental issues
+
+* Collecting info
+    * I have been thinking about some of the ways of going about collecting info, and Google Forms came to mind. They are pretty straightforward and can easily be distributed, and whoever wants to share something can -- for example, if they wanted to write a short blurb about their craft. That way would also prevent us from having to show everyone how to use WordPress (unless they are interested, of course!) However, if photos are involved, I am unsure of whether or not consent forms are needed. 
